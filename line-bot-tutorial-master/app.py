@@ -39,7 +39,6 @@ def handle_message(event):
     if (text=="Hi"):
         reply_text = "Hello"
         #Your user ID
-
     elif(text=="你好"):
         reply_text = "哈囉"
     elif(text=="機器人"):
